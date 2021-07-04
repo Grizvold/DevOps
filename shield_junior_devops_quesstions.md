@@ -25,12 +25,12 @@
 1. Describe in detail what happens when you run docker pull image:tag?
 1. How would you transfer data from one container into another?
 1. Explain what each of the following commands do:
-	• docker run
-	• docker rm
-	• docker ps
-	• docker pull
-	• docker build
-	• docker commit
+    + docker run
+    + docker rm
+    + docker ps
+    + docker pull  
+    + docker build    
+    + docker commit
 1. What is Dockerfile
 1. What is the difference between ADD and COPY in Dockerfile?
 1. What is the difference between CMD and RUN in Dockerfile?
@@ -40,14 +40,14 @@
 ### Terraform
 1. Explain what Terraform is and how does it works
 1. Explain each of the following:
-	• Provider
-	• Resource
-	• Provisioner
+    + Provider
+    + Resource
+    + Provisioner
 1. Explain what the following commands do:
-	• terraform init
-	• terraform plan
-	• terraform validate
-	• terraform apply
+    + terraform init
+    + terraform plan
+    + terraform validate
+    + terraform apply
 1. What are output variables and what terraform output does?
 1. Explain remote-exec and local-exec
 1. Explain "Remote State". When would you use it and how?
