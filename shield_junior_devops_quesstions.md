@@ -66,4 +66,12 @@
 
 ### Linux
 1. ...
-2. **Give 5 commands which are two letters long** - 
+2. **Give 5 commands which are two letters long** 
+    + ps - Command line utility that is used to display or view information related to the processes running in a Linux system.
+    + rm - Use the rm command to delete files and directories.
+    + ls - Use the "ls" command to know what files are in the directory you are in. You can see all the hidden files by using the command “ls -a”
+    + vi - Installed text editors in the Linux command line. 
+    + cp - Use the cp command to copy files through the command line. It takes two arguments: The first is the location of the file to be copied, the second is where to copy.
+    + cd — Use the "cd" command to go to a directory.
+    + mv — Use the mv command to move files through the command line. 
+    + df — Use the df command to see the available disk space in each of the partitions in your system. 
