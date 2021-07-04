@@ -3,7 +3,7 @@
 1. Give 5 commands which are two letters long
 1. What are hidden files/directories? How to list them?
 1. What each of the following commands does?
-	• pwd
+	+ pwd
 	• cd
 	• find
 	• ls
