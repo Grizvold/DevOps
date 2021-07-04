@@ -3,10 +3,10 @@
 1. Give 5 commands which are two letters long
 1. What are hidden files/directories? How to list them?
 1. What each of the following commands does?
-	+ pwd
-	• cd
-	• find
-	• ls
++ pwd
++ cd
++ find
++ ls
 1. How to rename the name of a file or a directory?
 1. Explain piping. How do you perform piping?
 1. Where system logs are located?
