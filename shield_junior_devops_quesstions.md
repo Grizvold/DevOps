@@ -75,3 +75,12 @@
     + cd — Use the "cd" command to go to a directory.
     + mv — Use the mv command to move files through the command line. 
     + df — Use the df command to see the available disk space in each of the partitions in your system. 
+3. **What are hidden files/directories? How to list them?** - Hidden files are usually system or application files, concealed to prevent accidental changes. To show those files: **ls -a**. In order to hide created files/directories type *.* at the beginning of the new filename, for example: **mv test.txt .test.txt**
+4. **What each of the following commands does?**
+    + **pwd** -  print working directory standing from the root. ($PWD environment variable which stores the path of the current directory)
+    + **cd** - change directory. 
+    + **find** - command-line utility that locates files based on some user-spesificaiton. 
+        + find <dir> -name *.txt find all txt files in dir, **-iname** ignores capital or small latters. 
+        + find <dir> -type f -name - find all files in working directory.
+        + find <dir> -type f -perm - find files with spesific permissions.
+    + **ls** -
