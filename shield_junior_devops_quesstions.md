@@ -59,3 +59,11 @@
 1. How did you report build results to users? What ways are there to report the results?
 1. Have you used Jenkins for CI or CD processes? Can you describe them?
 1. Have you written Jenkins scripts? If yes, what for and how they work?
+
+==============================================================================================
+
+## Answers:
+
+### Linux
+1. ...
+2. **Give 5 commands which are two letters long** - 
