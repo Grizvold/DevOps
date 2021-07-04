@@ -1,4 +1,4 @@
-##Linux
+## Linux
 1. What is your experience with Linux?
 1. Give 5 commands which are two letters long
 1. What are hidden files/directories? How to list them?
@@ -20,7 +20,7 @@
 1. How to check what is the hostname of the system?
 1. How to create your own environment variables?
 
-###Docker
+### Docker
 1. What is a Container? What is it used for?
 1. Describe in detail what happens when you run docker pull image:tag?
 1. How would you transfer data from one container into another?
@@ -37,7 +37,7 @@
 1. Explain what is Docker compose and what is it used for
 1. Describe the process of using Docker Compose
 
-###Terraform
+### Terraform
 1. Explain what Terraform is and how does it works
 1. Explain each of the following:
 	• Provider
@@ -52,7 +52,7 @@
 1. Explain remote-exec and local-exec
 1. Explain "Remote State". When would you use it and how?
 
-###Jenkins
+### Jenkins
 1. What is Jenkins? What have you used it for?
 1. What plugins have you used in Jenkins?
 1. What type of jobs are there? Which types have you used?
